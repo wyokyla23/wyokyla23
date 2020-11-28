@@ -18,4 +18,4 @@ My name is Kyla Gregory and I am a JavaScript developer living in Kansas City!
 - ⚡ Fun facts: I love to lift weights and I love all things Harry Potter 
 
 ## Follow Me!
-[<img src="https://img.shields.io/badge/<kyla_Christin_e>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/kyla_Christin_e) [<img src="https://img.shields.io/badge/<kyla_christin_e>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/kyla_christin_e/)
+[<img src="https://img.shields.io/badge/<kyla_Christin_e>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/kyla_Christin_e) [<img src="https://img.shields.io/badge/<kyla_christin_e>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/kyla_christin_e/) [<img src="https://img.shields.io/badge/kyla gregory%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kyla-gregory-8578891a8)
