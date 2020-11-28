@@ -1,6 +1,7 @@
 <img src="Begin.png" alt="banner" />
 
 ### Hello, friends! Welcome to my GitHub page!
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=wyokyla23.visitor-badge)
 
 My name is Kyla Gregory and I am a JavaScript developer living in Kansas City! 
 
