@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="Begin.png" alt="banner" />
 
-<!--
-**wyokyla23/wyokyla23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, friends! Welcome to my GitHub page!
 
-Here are some ideas to get you started:
+My name is Kyla Gregory and I am a JavaScript developer living in Kansas City! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I currently have built projects using:
+  * ReactJS/Hooks
+  * React Router
+  * Redux
+  * Google Cloud Firestore
+  * Material-UI
+  * Formik
+- 🌱 I’m currently learning SQL, specifically postgreSQL as well as Express and NodeJS
+- 👯 I’m looking to join a team of developers that strive to continue learning and can have fun!
+
+- ⚡ Fun facts: I love to lift weights and I love all things Harry Potter 
